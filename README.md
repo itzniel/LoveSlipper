@@ -1,8 +1,9 @@
 # LoveSlipper
-# LocSlipper
-*At 2023-02-14 1638 Created my Web App, experienced difficulty in downloading the 
+
+At 2023-02-14 1638 Created my Web App, experienced difficulty in downloading the 
 the right Visual studio code.
 Love Slipper  is involved in the design, development, manufacturing, and worldwide marketing and sales of slippers.
+
 * At 1804 Added a contoller Added an interface with the IActionResult so the it can return the layout when /slipper is added to the wen address 
 @1816 took a break!
 @ 2023-02-15 1630 resumed :corrected previous error which was having my home index page in the shared folder in views , did this by creating an home folder
